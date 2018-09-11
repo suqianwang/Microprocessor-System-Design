@@ -12,9 +12,7 @@ Implement the circuit X =A+BC, Y =BC′, Z =A+Y in Verilog.
 
 
 2. (25pt)
-Design a sequential circuit with one synchronous input and one output. The output is ‘1’ if the last four inputs are “1101”. For example, if the inputs are
-000111111011011, then the outputs are
-000000000010010
+Design a sequential circuit with one synchronous input and one output. The output is ‘1’ if the last four inputs are “1101”. For example, if the inputs are 000111111011011, then the outputs are 000000000010010
 
 	1) (10pt) Draw a FSM for this circuit. Use as few states as possible.
 
