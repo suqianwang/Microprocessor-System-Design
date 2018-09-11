@@ -20,8 +20,7 @@ Design a sequential circuit with one synchronous input and one output. The outpu
 
 	2) (8pt) Implement the circuit in Verilog.
 
-	3) (7pt) Create a testbench to test your circuit. In your code, explain the inputs that you are testing,
-and the outputs that you anticipate to see. Attach a screenshot for the waveforms.
+	3) (7pt) Create a testbench to test your circuit. In your code, explain the inputs that you are testing, and the outputs that you anticipate to see. Attach a screenshot for the waveforms.
 
 
 
@@ -32,8 +31,7 @@ In this problem, use hierarchical to implement ripple adders in Verilog. Your ri
 
 	2) (8pt) Implement an eight-bit ripple adder.
 
-	3) (9pt) Design two testbenches to test these two adders. In both testbenches, the inputs change at time
-100. When does each adder produce the correct output after the inputs change? What does this say about delay?
+	3) (9pt) Design two testbenches to test these two adders. In both testbenches, the inputs change at time 100. When does each adder produce the correct output after the inputs change? What does this say about delay?
 
 
 
