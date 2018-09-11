@@ -1,5 +1,4 @@
 1.(25pt)
-
 Implement the circuit X =A+BC, Y =BC′, Z =A+Y in Verilog.
 
 1) (6pt) Implement the circuit using structural modeling.
@@ -13,7 +12,6 @@ Implement the circuit X =A+BC, Y =BC′, Z =A+Y in Verilog.
 
 
 2. (25pt)
-
 Design a sequential circuit with one synchronous input and one output. The output is ‘1’ if the last four inputs are “1101”. For example, if the inputs are
 000111111011011, then the outputs are
 000000000010010
@@ -28,7 +26,6 @@ and the outputs that you anticipate to see. Attach a screenshot for the waveform
 
 
 3. (25pt)
-
 In this problem, use hierarchical to implement ripple adders in Verilog. Your ripple adder should be built upon full adders, which are in turn built upon half adders. Assume that all logic gates have one unit delay.
 
 1) (8pt) Implement a four-bit ripple adder.
@@ -41,7 +38,6 @@ In this problem, use hierarchical to implement ripple adders in Verilog. Your ri
 
 
 4. (25pt)
-
 See Fig. 1 in the next page. In class, I told you that this circuit usually does not make sense. In this problem, design Module X and Module Y so that the figure makes sense. In your design, the outputs of these modules cannot be the same all the time, and their outputs may change if inputs change. (For example, the solution on Fig. 2 is not acceptable.) You can only use the basic logic gates as listed on Page 15 of note01.
 1) (15pt) Draw your design. Explain the functionality of your design. 
 
